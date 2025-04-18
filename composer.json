@@ -1,5 +1,5 @@
 {
-    "name": "ai-chats",
+    "name": "vendor/ai-chats",
     "description": "A platform for creating and managing GPT assistants for WhatsApp Business.",
     "type": "project",
     "require": {
